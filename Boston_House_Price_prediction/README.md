@@ -29,6 +29,9 @@
    git commit -m "This commit includes all the development files"   ---> Git commit with the messages 
    git push origin main  --> pushing the codes to github repository
 
+8.Creation of docker file
+
+
 
 Running cells with 'Python 3.7.0 (conda)' requires ipykernel package.
 Run the following command to install 'ipykernel' into the Python environment.
