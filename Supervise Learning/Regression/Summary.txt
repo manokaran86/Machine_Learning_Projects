@@ -1,0 +1,9 @@
+Predicting the Sales - Advertistment channel
+Advertisment Channels - TV/Radio/Newspaper
+
+Models to predic the Sales
+   1.Linear Regression
+   2.Multiple Linear Regression
+   3.Polynomnial Regression
+   
+ Comparing the models with different Metrics
